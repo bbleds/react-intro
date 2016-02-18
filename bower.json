@@ -1,0 +1,18 @@
+{
+  "name": "react-intro",
+  "description": "a simple introduction to react",
+  "main": "index.js",
+  "authors": [
+    "Benjamin Bledsoe <bledsoedesigns@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bbleds/react-intro",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

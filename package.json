@@ -1,0 +1,23 @@
+{
+  "name": "react-intro",
+  "version": "1.0.0",
+  "description": "a simple introduction to react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bower": "bower"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbleds/react-intro.git"
+  },
+  "author": "Benjamin Bledsoe <bledsoedesigns@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbleds/react-intro/issues"
+  },
+  "homepage": "https://github.com/bbleds/react-intro#readme",
+  "dependencies": {
+    "bower": "^1.7.7"
+  }
+}
